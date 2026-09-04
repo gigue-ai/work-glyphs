@@ -1,0 +1,21 @@
+export type { WorkGlyphIconProps } from './icons.js';
+export {
+  ActivityItemIcon,
+  AgentBriefIcon,
+  ArtifactsIcon,
+  ConnectorTypeIcon,
+  DocumentIcon,
+  EmailIcon,
+  FileIcon,
+  MessageIcon,
+  NoteIcon,
+  PersonIcon,
+  PinIcon,
+  PlacementKindIcon,
+  PodIcon,
+  TagIcon,
+  WorkObjectIcon,
+  ZoneIcon,
+  connectorDisplayName,
+  initialsFromName,
+} from './icons.js';
